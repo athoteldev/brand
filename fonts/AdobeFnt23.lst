@@ -1,0 +1,231 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/AdobeFnt23.lst
+FileLength:5871
+FileModTime:699649413
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CircularAir-Book
+FamilyName:Circular Air
+StyleName:Book
+MenuName:Circular Air Book
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Circular Air Book
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/Circular Air-Book.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:188244
+FileModTime:460995478
+NameArray:0,Mac,4,Circular Air Book
+NameArray:0,Win,1,Circular Air Book
+NameArray:0,Win,16,Circular Air
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CircularAir-Light
+FamilyName:Circular Air
+StyleName:Light
+MenuName:Circular Air Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Circular Air Light
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/Circular Air-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217340
+FileModTime:460995514
+NameArray:0,Mac,4,Circular Air Light
+NameArray:0,Win,1,Circular Air Light
+NameArray:0,Win,16,Circular Air
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:690829691
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SharpGroteskTRIALBook-18
+FamilyName:SharpGrotesk TRIAL Book
+StyleName:18
+MenuName:SharpGrotesk TRIAL Book 18
+StyleBits:0
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:SharpGrotesk TRIAL Book 18
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskBook-18.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:13328
+FileModTime:600801300
+NameArray:0,Mac,4,SharpGrotesk TRIAL Book 18
+NameArray:0,Win,1,SharpGrotesk TRIAL Book 18
+NameArray:0,Win,16,SharpGrotesk TRIAL Book
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SharpGroteskBook18
+FamilyName:Sharp Grotesk Book
+StyleName:18
+MenuName:Sharp Grotesk Book 18
+StyleBits:0
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Sharp Grotesk Book 18
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskBook18.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:126372
+FileModTime:699569146
+NameArray:0,Mac,4,Sharp Grotesk Book 18
+NameArray:0,Win,1,Sharp Grotesk Book 18
+NameArray:0,Win,16,Sharp Grotesk Book
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SharpGroteskBookItalic18
+FamilyName:Sharp Grotesk Book Italic
+StyleName:18
+MenuName:Sharp Grotesk Book Italic 18
+StyleBits:0
+WeightClass:400
+WidthClass:6
+AngleClass:0
+FullName:Sharp Grotesk Book Italic 18
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskBookItalic18.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:131200
+FileModTime:699569146
+NameArray:0,Mac,4,Sharp Grotesk Book Italic 18
+NameArray:0,Win,1,Sharp Grotesk Book Italic 18
+NameArray:0,Win,16,Sharp Grotesk Book Italic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SharpGroteskMedium18
+FamilyName:Sharp Grotesk Medium
+StyleName:18
+MenuName:Sharp Grotesk Medium 18
+StyleBits:0
+WeightClass:500
+WidthClass:6
+AngleClass:0
+FullName:Sharp Grotesk Medium 18
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskMedium18.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:132336
+FileModTime:699569138
+NameArray:0,Mac,4,Sharp Grotesk Medium 18
+NameArray:0,Win,1,Sharp Grotesk Medium 18
+NameArray:0,Win,16,Sharp Grotesk Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SharpGroteskMedium23
+FamilyName:Sharp Grotesk Medium
+StyleName:23
+MenuName:Sharp Grotesk Medium 23
+StyleBits:0
+WeightClass:500
+WidthClass:8
+AngleClass:0
+FullName:Sharp Grotesk Medium 23
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskMedium23.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179104
+FileModTime:699569136
+NameArray:0,Mac,4,Sharp Grotesk Medium 23
+NameArray:0,Win,1,Sharp Grotesk Medium 23
+NameArray:0,Win,16,Sharp Grotesk Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SharpGroteskSmBold23
+FamilyName:Sharp Grotesk Semibold
+StyleName:23
+MenuName:Sharp Grotesk SmBold 23
+StyleBits:0
+WeightClass:600
+WidthClass:8
+AngleClass:0
+FullName:Sharp Grotesk SmBold 23
+WritingScript:Roman
+OutlineFileName:/Users/erinrommel/Dropbox/ current projects SM/hotel/identity/@hotel Brand Guidelines_Folder/Document fonts/SharpGroteskSmBold23.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180160
+FileModTime:699569130
+NameArray:0,Mac,4,Sharp Grotesk SmBold 23
+NameArray:0,Win,1,Sharp Grotesk SmBold 23
+NameArray:0,Win,16,Sharp Grotesk Semibold
+%EndFont
+
